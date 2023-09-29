@@ -33,6 +33,14 @@
     margin-bottom: 2%;
     box-shadow: 0 15px 15px rgba(5, 5, 5, 0.075)
 }
+.eachRowLast{
+    display: flex;
+    flex-direction: row;
+    /* margin-right:30% ; */
+    /* border: 1px solid black; */
+    margin-bottom: 6%;
+    box-shadow: 0 15px 15px rgba(5, 5, 5, 0.075)
+}
 .leftItem{
     width: 30%;
     /* margin: auto; */

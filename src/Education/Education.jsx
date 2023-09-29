@@ -28,7 +28,7 @@ export default function Education() {
                         <h3>KENDRIYA VIDYALAYA PANAGARH</h3>
                     </div>
                 </div>
-                <div className={Style.eachRow}>
+                <div className={Style.eachRowLast}>
                     <div className={Style.leftItem}>
                         <h3>2015-2016</h3>
                         <h2>School</h2>
